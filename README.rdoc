@@ -1,0 +1,5 @@
+= jQuery AutoComplete Tagging Plugging
+
+This addresses the use case where you need autocomplete-able tagging functionality.
+
+More to come
